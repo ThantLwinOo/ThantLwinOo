@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there :ghost:
 
 I'm **Thant Lwin Oo**, passionate about Machine Learning, Deep Learning, and AI.
 - 🔭 Currently exploring **Computer Vision in Medical Imaging**
